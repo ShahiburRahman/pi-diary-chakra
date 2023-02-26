@@ -1,1 +1,0 @@
-# pi-diary-chakra
